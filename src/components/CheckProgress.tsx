@@ -142,7 +142,7 @@ export default function CheckProgress() {
       <div className="mt-8 flex justify-center py-4 px-6 bg-slate-50 dark:bg-slate-950/40 rounded-2xl border border-slate-100 dark:border-slate-800/60">
         <p className="text-xs text-slate-500 dark:text-slate-400 flex items-center gap-2">
           <Cpu className="w-3.5 h-3.5 text-indigo-500" />
-          <span>Integrity Scan Engine running on <span className="font-semibold text-slate-700 dark:text-slate-300">Gemini 3.5 Flash</span> models. Advanced similarity indexing active.</span>
+          <span>Integrity Scan Engine running on <span className="font-semibold text-slate-700 dark:text-slate-300">Ayush 8.5.5 Co. Flash Agent</span> models. Advanced similarity indexing active.</span>
         </p>
       </div>
     </div>
