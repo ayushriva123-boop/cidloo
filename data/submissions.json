@@ -1,0 +1,274 @@
+[
+  {
+    "id": "sub-seed-1",
+    "submissionId": "SUB-5498454",
+    "paperId": "5498454",
+    "title": "How Can Soft Skills and Social Capital Foster Resilience",
+    "authorName": "ALAPATI VARSHHA",
+    "submittedBy": "library@gdgu.org",
+    "documentType": "Assignment",
+    "submissionDate": "October 16, 2026, 04:32 PM",
+    "fileName": "Alapati_Varshha_Resilience_Research.docx",
+    "fileSize": 45892,
+    "fileType": "DOCX",
+    "wordCount": 1845,
+    "charCount": 11420,
+    "pageCount": 5,
+    "plagiarismScore": 3,
+    "originalityScore": 97,
+    "aiScore": 5,
+    "originalScores": {
+      "plagiarismScore": 8,
+      "originalityScore": 92,
+      "aiScore": 12
+    },
+    "isManuallyEdited": true,
+    "analysisSummary": "Low overall overlap detected. Primary matches originate from published academic journals on organizational behavior.",
+    "matchedSources": [
+      {
+        "title": "Journal of Academic Psychology & Social Capital",
+        "similarity": 5,
+        "url": "https://journals.sagepub.com/doi/10.1177/0022146520984",
+        "matchedText": "soft skills and social capital foster resilience in dynamic organizational environments"
+      },
+      {
+        "title": "Higher Education Research Archive",
+        "similarity": 3,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0147176722001",
+        "matchedText": "investigation into how adaptive personal competencies influence structural stability"
+      }
+    ],
+    "suspiciousSections": [
+      {
+        "text": "Soft skills and social capital foster resilience in dynamic organizational environments.",
+        "reason": "Verbatim phrasing matches published abstract.",
+        "sourceName": "Journal of Academic Psychology & Social Capital",
+        "severity": "low"
+      }
+    ],
+    "result": {
+      "plagiarismScore": 3,
+      "originalityScore": 97,
+      "aiScore": 5,
+      "analysisSummary": "Low overall overlap detected. Primary matches originate from published academic journals.",
+      "matchedSources": [
+        {
+          "title": "Journal of Academic Psychology & Social Capital",
+          "similarity": 5,
+          "url": "https://journals.sagepub.com/doi/10.1177/0022146520984",
+          "matchedText": "soft skills and social capital foster resilience in dynamic organizational environments"
+        }
+      ],
+      "suspiciousSections": [
+        {
+          "text": "Soft skills and social capital foster resilience in dynamic organizational environments.",
+          "reason": "Verbatim phrasing matches published abstract.",
+          "sourceName": "Journal of Academic Psychology & Social Capital",
+          "severity": "low"
+        }
+      ],
+      "reportDate": "October 16, 2026, 04:32 PM",
+      "documentStats": {
+        "fileName": "Alapati_Varshha_Resilience_Research.docx",
+        "fileSize": 45892,
+        "fileType": "DOCX",
+        "wordCount": 1845,
+        "charCount": 11420,
+        "pageCount": 5
+      },
+      "submissionInfo": {
+        "authorName": "ALAPATI VARSHHA",
+        "title": "How Can Soft Skills and Social Capital Foster Resilience",
+        "paperId": "5498454",
+        "submittedBy": "library@gdgu.org",
+        "submissionDate": "October 16, 2026, 04:32 PM",
+        "documentType": "Assignment",
+        "excludeQuotes": true,
+        "excludeBibliography": true,
+        "excludeSmallSources": true,
+        "dbStudentPapers": true,
+        "dbJournalsPublishers": true,
+        "dbInternetWeb": true,
+        "dbInstitutionRepository": true
+      }
+    },
+    "editedBy": "cocoayush",
+    "lastEditedAt": "Oct 18, 2026, 10:32 AM",
+    "adminNotes": "Manually verified and adjusted by Admin cocoayush"
+  },
+  {
+    "id": "sub-seed-2",
+    "submissionId": "SUB-7823901",
+    "paperId": "7823901",
+    "title": "Deep Neural Architectures for Multilingual Natural Language Processing",
+    "authorName": "Dr. Rohan Mehrotra",
+    "submittedBy": "research.office@iitd.ac.in",
+    "documentType": "Dissertation",
+    "submissionDate": "October 17, 2026, 11:15 AM",
+    "fileName": "Rohan_NLP_Architectures_Thesis.pdf",
+    "fileSize": 128450,
+    "fileType": "PDF",
+    "wordCount": 4210,
+    "charCount": 28900,
+    "pageCount": 12,
+    "plagiarismScore": 19,
+    "originalityScore": 81,
+    "aiScore": 48,
+    "originalScores": {
+      "plagiarismScore": 19,
+      "originalityScore": 81,
+      "aiScore": 48
+    },
+    "isManuallyEdited": false,
+    "analysisSummary": "Moderate overlap detected in Section 2 (Literature Review). Algorithmic formulation sections are predominantly original.",
+    "matchedSources": [
+      {
+        "title": "IEEE Transactions on Neural Networks",
+        "similarity": 11,
+        "url": "https://ieeexplore.ieee.org/document/9482710",
+        "matchedText": "Transformer attention mechanisms exhibit parameter-efficient cross-lingual transfer learning"
+      },
+      {
+        "title": "arXiv Computer Science Repository",
+        "similarity": 8,
+        "url": "https://arxiv.org/abs/2301.08920",
+        "matchedText": "evaluation metrics on low-resource Indic languages demonstrates significant baseline improvements"
+      }
+    ],
+    "suspiciousSections": [
+      {
+        "text": "Transformer attention mechanisms exhibit parameter-efficient cross-lingual transfer learning across tokenized corpora.",
+        "reason": "Significant structural and lexical overlap with IEEE paper.",
+        "sourceName": "IEEE Transactions on Neural Networks",
+        "severity": "medium"
+      }
+    ],
+    "result": {
+      "plagiarismScore": 19,
+      "originalityScore": 81,
+      "aiScore": 48,
+      "analysisSummary": "Moderate overlap detected in Section 2 (Literature Review).",
+      "matchedSources": [
+        {
+          "title": "IEEE Transactions on Neural Networks",
+          "similarity": 11,
+          "url": "https://ieeexplore.ieee.org/document/9482710",
+          "matchedText": "Transformer attention mechanisms exhibit parameter-efficient cross-lingual transfer learning"
+        }
+      ],
+      "suspiciousSections": [
+        {
+          "text": "Transformer attention mechanisms exhibit parameter-efficient cross-lingual transfer learning.",
+          "reason": "Significant structural and lexical overlap.",
+          "sourceName": "IEEE Transactions on Neural Networks",
+          "severity": "medium"
+        }
+      ],
+      "reportDate": "October 17, 2026, 11:15 AM",
+      "documentStats": {
+        "fileName": "Rohan_NLP_Architectures_Thesis.pdf",
+        "fileSize": 128450,
+        "fileType": "PDF",
+        "wordCount": 4210,
+        "charCount": 28900,
+        "pageCount": 12
+      },
+      "submissionInfo": {
+        "authorName": "Dr. Rohan Mehrotra",
+        "title": "Deep Neural Architectures for Multilingual Natural Language Processing",
+        "paperId": "7823901",
+        "submittedBy": "research.office@iitd.ac.in",
+        "submissionDate": "October 17, 2026, 11:15 AM",
+        "documentType": "Dissertation",
+        "excludeQuotes": true,
+        "excludeBibliography": true,
+        "excludeSmallSources": true,
+        "dbStudentPapers": true,
+        "dbJournalsPublishers": true,
+        "dbInternetWeb": true,
+        "dbInstitutionRepository": true
+      }
+    }
+  },
+  {
+    "id": "sub-seed-3",
+    "submissionId": "SUB-6192843",
+    "paperId": "6192843",
+    "title": "Microbial Fuel Cells for Sustainable Wastewater Remediation",
+    "authorName": "Priyanka Nair",
+    "submittedBy": "pnair@biotech.du.ac.in",
+    "documentType": "Thesis",
+    "submissionDate": "October 18, 2026, 09:20 AM",
+    "fileName": "Microbial_Fuel_Cells_Remediation.pdf",
+    "fileSize": 95400,
+    "fileType": "PDF",
+    "wordCount": 3150,
+    "charCount": 21300,
+    "pageCount": 8,
+    "plagiarismScore": 4,
+    "originalityScore": 96,
+    "aiScore": 8,
+    "originalScores": {
+      "plagiarismScore": 4,
+      "originalityScore": 96,
+      "aiScore": 8
+    },
+    "isManuallyEdited": false,
+    "analysisSummary": "Exceptional originality. Only standard biological terminology and reagent definitions matched open public repositories.",
+    "matchedSources": [
+      {
+        "title": "Bioresource Technology Reports",
+        "similarity": 4,
+        "url": "https://www.sciencedirect.com/journal/bioresource-technology-reports",
+        "matchedText": "electrogenic bacteria and proton exchange membrane configuration in bioelectrochemical reactors"
+      }
+    ],
+    "suspiciousSections": [
+      {
+        "text": "Electrogenic bacteria and proton exchange membrane configuration in bioelectrochemical reactors.",
+        "reason": "Standard biochemical nomenclature overlap.",
+        "sourceName": "Bioresource Technology Reports",
+        "severity": "low"
+      }
+    ],
+    "result": {
+      "plagiarismScore": 4,
+      "originalityScore": 96,
+      "aiScore": 8,
+      "analysisSummary": "Exceptional originality. High academic integrity score.",
+      "matchedSources": [
+        {
+          "title": "Bioresource Technology Reports",
+          "similarity": 4,
+          "url": "https://www.sciencedirect.com/journal/bioresource-technology-reports",
+          "matchedText": "electrogenic bacteria and proton exchange membrane configuration in bioelectrochemical reactors"
+        }
+      ],
+      "suspiciousSections": [],
+      "reportDate": "October 18, 2026, 09:20 AM",
+      "documentStats": {
+        "fileName": "Microbial_Fuel_Cells_Remediation.pdf",
+        "fileSize": 95400,
+        "fileType": "PDF",
+        "wordCount": 3150,
+        "charCount": 21300,
+        "pageCount": 8
+      },
+      "submissionInfo": {
+        "authorName": "Priyanka Nair",
+        "title": "Microbial Fuel Cells for Sustainable Wastewater Remediation",
+        "paperId": "6192843",
+        "submittedBy": "pnair@biotech.du.ac.in",
+        "submissionDate": "October 18, 2026, 09:20 AM",
+        "documentType": "Thesis",
+        "excludeQuotes": true,
+        "excludeBibliography": true,
+        "excludeSmallSources": true,
+        "dbStudentPapers": true,
+        "dbJournalsPublishers": true,
+        "dbInternetWeb": true,
+        "dbInstitutionRepository": true
+      }
+    }
+  }
+]
