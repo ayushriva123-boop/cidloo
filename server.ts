@@ -7,8 +7,11 @@ import mammoth from "mammoth";
 import { GoogleGenAI, Type } from "@google/genai";
 import dotenv from "dotenv";
 
-const require = createRequire(import.meta.url);
-const pdfParseModule = require("pdf-parse");
+const require = createRequire(
+  typeof __filename !== "undefined"
+    ? __filename
+    : path.join(process.cwd(), "server.ts")
+);const pdfParseModule = require("pdf-parse");
 
 dotenv.config();
 
@@ -27,7 +30,7 @@ initSubmissionsStore();
 
 // Initialize Express
 const app = express();
-const PORT = 3000;
+const PORT = Number(process.env.PORT) || 3000;
 
 // Log all incoming API requests
 app.use("/api", (req, res, next) => {
